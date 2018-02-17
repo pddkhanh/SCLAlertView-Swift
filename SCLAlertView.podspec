@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "SCLAlertView"
-  s.version      = "0.9"
+  s.module_name  = "SCLAlertView"
+  s.version      = "0.9.1"
   s.summary      = "Beautiful Alert View. Written in Swift"
   s.homepage     = "https://github.com/pddkhanh/SCLAlertView-Swift"
   s.screenshots  = "https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/errorScreenshot.png", "https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/successScreenshot.png"
